@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eaefbb66-6944-411e-9d74-7b3ef7a44739" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Ater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Biatoss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Bibliothequaire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Doctorant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Enseignant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/EnseignantPermanent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/EnseignantTemporaire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Etudiant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/MaitreConference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Personnel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Professeur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Secretaire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Vacataire.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1212829425">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Biatoss" value="2" />
+          <entry key="implem" value="2" />
+          <entry key="java" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="23" />
+          <entry key="UML" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="988" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="988" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Enseignant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Professeur.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+              <folding>
+                <element signature="e#454#455#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/MaitreConference.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="e#405#406#0" expanded="true" />
+                <element signature="e#468#469#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/EnseignantTemporaire.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Vacataire.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+              <folding>
+                <element signature="e#378#379#0" expanded="true" />
+                <element signature="e#434#435#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Ater.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Biatoss.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+              <folding>
+                <element signature="e#766#767#0" expanded="true" />
+                <element signature="e#804#805#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Bibliothequaire.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+              <folding>
+                <element signature="e#585#586#0" expanded="true" />
+                <element signature="e#647#648#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Secretaire.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <folding>
+                <element signature="e#569#570#0" expanded="true" />
+                <element signature="e#626#627#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Personnel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TestNG Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/shapes/implem/Point2D.java" />
+        <option value="$PROJECT_DIR$/TD0/test/fr/parisnanterre/miage/poa/shapes/implem/Shape2DTest.java" />
+        <option value="$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/shapes/api/Translatable2D.java" />
+        <option value="$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/shapes/api/Mesurable2D.java" />
+        <option value="$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/shapes/implem/Shape2D.java" />
+        <option value="$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/shapes/implem/Rectangle.java" />
+        <option value="$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Personnel.java" />
+        <option value="$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Etudiant.java" />
+        <option value="$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Doctorant.java" />
+        <option value="$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Enseignant.java" />
+        <option value="$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/EnseignantPermanent.java" />
+        <option value="$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Professeur.java" />
+        <option value="$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/MaitreConference.java" />
+        <option value="$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/EnseignantTemporaire.java" />
+        <option value="$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Vacataire.java" />
+        <option value="$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Ater.java" />
+        <option value="$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Contrat.java" />
+        <option value="$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Biatoss.java" />
+        <option value="$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/EchelonBourse.java" />
+        <option value="$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Bibliothequaire.java" />
+        <option value="$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Secretaire.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="969" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Java</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="POA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="POA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="POA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="POA" type="462c0819:PsiDirectoryNode" />
+              <item name="TD0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="POA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="POA" type="462c0819:PsiDirectoryNode" />
+              <item name="TD0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="POA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="POA" type="462c0819:PsiDirectoryNode" />
+              <item name="TD0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="poa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="POA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="POA" type="462c0819:PsiDirectoryNode" />
+              <item name="TD0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="poa" type="462c0819:PsiDirectoryNode" />
+              <item name="universite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="POA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="POA" type="462c0819:PsiDirectoryNode" />
+              <item name="TD0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="poa" type="462c0819:PsiDirectoryNode" />
+              <item name="universite" type="462c0819:PsiDirectoryNode" />
+              <item name="implem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="POA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="POA" type="462c0819:PsiDirectoryNode" />
+              <item name="TD0" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="POA" type="58d84e3e:PackageViewProjectNode" />
+              <item name="POA" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="POA" type="58d84e3e:PackageViewProjectNode" />
+              <item name="POA" type="616d4139:PackageViewModuleNode" />
+              <item name="fr.parisnanterre.miage.poa" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539008015912" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="fr.parisnanterre.miage.poa.shapes.implem" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="fr.parisnanterre.miage.poa.universite.implem" />
+      <recent name="fr.parisnanterre.miage.poa.shapes.implem" />
+      <recent name="fr.parisnanterre.miage.poa.shapes.api" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eaefbb66-6944-411e-9d74-7b3ef7a44739" name="Default Changelist" comment="" />
+      <created>1538399701190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538399701190</updated>
+      <workItem from="1538399704999" duration="6816000" />
+      <workItem from="1538999242443" duration="7583000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14399000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22818792" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/shapes/implem/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding>
+            <element signature="e#233#234#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/shapes/implem/Shape2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/shapes/implem/Point2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/shapes/api/Translatable2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/shapes/api/Mesurable2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TD0/test/fr/parisnanterre/miage/poa/shapes/implem/Shape2DTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Etudiant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Doctorant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="49" lean-forward="true" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+          <folding>
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/EnseignantPermanent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Professeur.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="e#454#455#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/MaitreConference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/EnseignantTemporaire.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Vacataire.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Ater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Enseignant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Contrat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/EchelonBourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Personnel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/fr.parisnanterre.miage.poa.universite.implem.Biatoss">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>fr.parisnanterre.miage.poa.universite.implem.Biatoss</OriginalElement>
+          <nodes>
+            <node x="" y="">fr.parisnanterre.miage.poa.universite.implem.Biatoss</node>
+            <node x="" y="">fr.parisnanterre.miage.poa.universite.implem.Personnel</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="49.5" y="55.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/fr.parisnanterre.miage.poa.universite.implem">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>fr.parisnanterre.miage.poa.universite.implem</OriginalElement>
+          <nodes>
+            <node x="" y="">fr.parisnanterre.miage.poa.universite.implem.EnseignantTemporaire</node>
+            <node x="" y="">fr.parisnanterre.miage.poa.universite.implem.Enseignant</node>
+            <node x="" y="">fr.parisnanterre.miage.poa.universite.implem.EnseignantPermanent</node>
+            <node x="" y="">fr.parisnanterre.miage.poa.universite.implem.Professeur</node>
+            <node x="" y="">fr.parisnanterre.miage.poa.universite.implem.Doctorant</node>
+            <node x="" y="">fr.parisnanterre.miage.poa.universite.implem.Etudiant</node>
+            <node x="" y="">fr.parisnanterre.miage.poa.universite.implem.Ater</node>
+            <node x="" y="">fr.parisnanterre.miage.poa.universite.implem.Vacataire</node>
+            <node x="" y="">fr.parisnanterre.miage.poa.universite.implem.MaitreConference</node>
+            <node x="" y="">fr.parisnanterre.miage.poa.universite.implem.Biatoss</node>
+            <node x="" y="">fr.parisnanterre.miage.poa.universite.implem.Personnel</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="338.0" y="135.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Biatoss.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding>
+            <element signature="e#766#767#0" expanded="true" />
+            <element signature="e#804#805#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Bibliothequaire.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TD0/src/fr/parisnanterre/miage/poa/universite/implem/Secretaire.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>POA</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
