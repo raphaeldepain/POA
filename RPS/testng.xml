@@ -6,7 +6,7 @@
     <parameter name =" rock " value ="SCISSORS" />
     <test name =" tes tWinPlay " >
         <classes>
-            <class name =" test.fr.p10.miage.rps.model.RockPapersScissorsTest">
+            <class name ="fr.p10.miage.rps.model.RockPaperScissorsTest">
                 <methods >
                     <include name = "testWinPlay" ></include>
                 </ methods >
