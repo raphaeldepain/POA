@@ -1,0 +1,23 @@
+package fr.parisnanterre.miage.animal;
+
+public class AnimalFactory {
+	
+	
+	//public AnimalFactory(){}
+	
+	public Animal createAnimal(String type){
+		Animal animal = null;
+		if(type.equals("chat")){
+			animal = new Chat();
+		}else if(type.equals("chien")){
+			animal = new Chien();
+		}else if(type.equals("canard")){
+			animal = new Canard();
+		}else{
+			System.out.println("L'animal est vide");
+		}
+		return animal;
+		
+	}
+
+}

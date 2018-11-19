@@ -1,0 +1,14 @@
+package voiture;
+
+public abstract class Moteur {
+	
+	private String nom;
+	private int cv;
+	
+	public Moteur(String nom, int cv){
+		this.nom = nom;
+		this.cv = cv;
+	}
+	
+
+}

@@ -1,0 +1,13 @@
+package voiture;
+
+public class Pneu {
+	
+	private String marque;
+	private int nombre;
+	
+	public Pneu(String marque, int nombre){
+		this.marque = marque;
+		this.nombre = nombre;
+	}
+
+}

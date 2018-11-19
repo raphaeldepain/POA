@@ -1,0 +1,17 @@
+package fr.parisnanterre.miage.client;
+
+import fr.parisnanterre.miage.animal.*;
+
+
+public class Client {
+	
+
+	AnimalFactory af = new AnimalFactory();
+	
+	Animal chat = af.createAnimal("chat");
+	Animal chien = af.createAnimal("chien");
+	Animal canard = af.createAnimal("canard");
+	
+	
+
+}

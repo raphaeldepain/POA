@@ -1,0 +1,7 @@
+package voiture;
+
+public class VoitureEurope {
+	private int nbCv = 70;
+	private String color;
+	private String moteur;
+}

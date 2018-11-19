@@ -1,0 +1,28 @@
+
+public class StateTrainMarche implements StateTrain {
+
+	@Override
+	public void ouvrirPorte() {
+		throw new IllegalStateException("Le train est en marche !");
+
+	}
+
+	@Override
+	public void fermerPorte() {
+		throw new IllegalStateException("Les portes sont déjà fermées !");
+
+	}
+
+	@Override
+	public void demarrerTrain() {
+		throw new IllegalStateException("Le train est déjà en marche !");
+
+	}
+
+	@Override
+	public void arreterTrain() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

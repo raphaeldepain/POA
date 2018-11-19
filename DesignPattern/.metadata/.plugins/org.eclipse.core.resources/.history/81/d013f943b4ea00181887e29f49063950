@@ -1,0 +1,8 @@
+package voiture;
+
+public interface Voiture {
+	
+	public void createMoteur(String nom, int cv);
+	public void createPneu(int nombre, String marque);
+
+}

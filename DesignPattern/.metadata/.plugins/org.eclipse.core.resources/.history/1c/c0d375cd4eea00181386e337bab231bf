@@ -1,0 +1,11 @@
+package fr.parisnanterre.miage.animal;
+
+public class Chat implements Animal {
+
+	@Override
+	public void effectuerBruit() {
+		System.out.println("Miaou !");
+		
+	}
+
+}

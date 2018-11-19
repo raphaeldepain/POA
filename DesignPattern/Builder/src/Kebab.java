@@ -1,0 +1,64 @@
+
+public class Kebab {
+
+
+
+	private int typePain; //Obligatoire
+	private int typeViande; //Obligatoire
+	private int QuantiteSalade; //Facultatif
+	private int QuantiteTomate; //Facultatif
+	private int QuantiteOignon; //Facultatif
+	private int QuantiteSauce; //Facultatif
+	
+	private Kebab(KebabBuilder builder) {
+		this.typePain = builder.typePain;
+		this.typeViande = builder.typeViande;
+		this.QuantiteSalade = builder.QuantiteSalade;
+		this.QuantiteOignon = builder.QuantiteOignon;
+		this.QuantiteTomate = builder.QuantiteTomate;
+		this.QuantiteSauce = builder.QuantiteSauce;
+	}
+
+	
+	
+	public static class KebabBuilder{
+		
+		private final int typePain; //Obligatoire
+		private final int typeViande; //Obligatoire
+		private int QuantiteSalade; //Facultatif
+		private int QuantiteTomate; //Facultatif
+		private int QuantiteOignon; //Facultatif
+		private int QuantiteSauce; //Facultatif
+		
+		public KebabBuilder(int typePain, int typeViande){
+			this.typePain = typePain;
+			this.typeViande = typeViande;
+		}
+		
+		public KebabBuilder salade(int salade){
+			QuantiteSalade = salade;
+			return this;
+		}
+		public KebabBuilder tomate(int tomate){
+			QuantiteTomate = tomate;
+			return this;
+		}
+		
+		public KebabBuilder oignon(int salade){
+			QuantiteOignon = salade;
+			return this;
+		}
+		
+		public KebabBuilder sauce(int salade){
+			QuantiteSauce = salade;
+			return this;
+		}
+		
+		public Kebab build(){
+			return new Kebab(this);
+		}
+		
+	}
+}
+
+

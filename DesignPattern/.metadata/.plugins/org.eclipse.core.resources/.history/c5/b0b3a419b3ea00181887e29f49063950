@@ -1,0 +1,12 @@
+package voiture;
+
+public class VoitureAmericaine {
+	
+	private int nbCv = 100;
+	private String color;
+	private String moteur;
+	
+	
+	
+
+}

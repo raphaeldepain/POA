@@ -1,0 +1,7 @@
+package voiture;
+
+public interface Voiture {
+	
+	public void createMoteur();
+
+}

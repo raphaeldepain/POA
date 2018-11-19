@@ -1,0 +1,36 @@
+
+public class StateTrainArret implements StateTrain {
+	
+	Train train = new Train("Test");
+
+	@Override
+	public void ouvrirPorte() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void fermerPorte() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void demarrerTrain() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void arreterTrain() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void validate() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

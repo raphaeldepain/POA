@@ -1,0 +1,7 @@
+package voiture;
+
+public class Voiture {
+	private int nbChevaux;
+	private String moteur;
+
+}

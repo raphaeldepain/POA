@@ -1,0 +1,6 @@
+
+public class Utente {
+	
+	public void visualizzare("Ciao, sono italiano !");
+
+}

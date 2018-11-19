@@ -1,0 +1,11 @@
+package fr.parisnanterre.miage.client;
+
+import fr.parisnanterre.miage.animal.Animal;
+
+public class Client {
+	
+	Animal chat = null;
+	Animal chien = null;
+	Animal canard = null;
+
+}

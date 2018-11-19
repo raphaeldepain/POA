@@ -1,0 +1,12 @@
+
+public class Train {
+	
+	private String nom;
+	private StateTrain state;
+	
+	public Train(String nom){
+		this.nom = nom;
+		this.state = new StateTrainArret();
+	}
+
+}

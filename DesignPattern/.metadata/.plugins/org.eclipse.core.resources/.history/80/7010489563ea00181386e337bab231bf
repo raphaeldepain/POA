@@ -1,0 +1,18 @@
+
+public class Kebab {
+	
+	private int typePain; //Obligatoire
+	private int typeViande; //Obligatoire
+	private int QuantiteSalade; //Facultatif
+	private int QuantiteTomate; //Facultatif
+	private int QuantiteOignon; //Facultatif
+	private int QuantiteSauce; //Facultatif
+	
+	
+	public static class KebabBuilder{
+		
+		
+	}
+}
+
+

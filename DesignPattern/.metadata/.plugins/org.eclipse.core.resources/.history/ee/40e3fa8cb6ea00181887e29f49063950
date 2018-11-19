@@ -1,0 +1,14 @@
+package voiture;
+
+public abstract class VoitureUS implements Voiture {
+	
+	public Moteur createMoteur(String nom, int cv){
+		return new MoteurUS(nom, cv);
+		
+	}
+	
+	public Pneu createPneu(String marque, int nombre){
+		return new PneuUS(marque, nombre);
+	}
+
+}

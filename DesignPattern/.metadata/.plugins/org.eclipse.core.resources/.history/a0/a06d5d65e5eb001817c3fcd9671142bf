@@ -1,0 +1,28 @@
+
+public class StateTrainMarche implements StateTrain {
+
+	@Override
+	public void ouvrirPorte() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void fermerPorte() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void demarrerTrain() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void arreterTrain() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

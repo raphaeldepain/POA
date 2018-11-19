@@ -1,0 +1,12 @@
+package voiture;
+
+public class MoteurUS extends Moteur {
+
+	public MoteurUS(String nom, int cv) {
+		super(nom, cv);
+		
+	}
+	
+	
+
+}

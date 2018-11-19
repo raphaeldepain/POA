@@ -1,0 +1,41 @@
+
+public class Train {
+	
+	private String nom;
+	private StateTrain state;
+	
+	public Train(String nom){
+		this.nom = nom;
+		this.state = new StateTrainArret(this);
+	}
+	
+	public void validate(){
+		state.validate();
+	}
+	
+	public void ouvrirPorte(){
+		System.out.println("Portes ouvertes !");
+		state.ouvrirPorte();
+	}
+	
+	public void fermerPorte(){
+		System.out.println("Portes fermées !");
+		state.fermerPorte();
+	}
+	
+	public void demarrerTrain(){
+		System.out.println("Train en marche");
+		state.demarrerTrain();
+	}
+	
+	public void arreterTrain(){
+		System.out.println("Train à l'arret");
+		state.arreterTrain();
+	}
+	
+	public void setState(StateTrain state){
+		this.state = state;
+	}
+	
+
+}

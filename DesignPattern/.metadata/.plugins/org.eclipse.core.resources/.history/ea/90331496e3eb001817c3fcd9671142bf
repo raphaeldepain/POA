@@ -1,0 +1,4 @@
+
+public class StateTrainArret extends StateTrain {
+
+}

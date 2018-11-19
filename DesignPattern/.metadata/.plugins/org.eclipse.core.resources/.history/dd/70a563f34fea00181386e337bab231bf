@@ -1,0 +1,11 @@
+package fr.parisnanterre.miage.animal;
+
+public class AnimalFactory {
+	
+	private String type;
+	
+	public AnimalFactory(String type){
+		this.type = type;
+	}
+
+}
